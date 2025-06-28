@@ -2,7 +2,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../riverpod_providers/state_providers.dart';
 import '../../../theme_constants/app_themes.dart';
-// import 'attendance_chart_widgets/attendance_chart_widget.dart';
+import 'attendance_chart_widgets/attendance_chart_widget.dart';
 
 import '/home_module/home_widgets/bottom_content_widgets/bottom_home_widgets.dart';
 import 'package:flutter/material.dart';
@@ -47,7 +47,7 @@ class BottomHomeContent extends ConsumerWidget {
                 _giveDividerColor(appTheme: appThemeType, context: context),
             dividerThickness: 1.3,
           ),
-          // const AttendanceChartWidget(),
+          AttendanceChartWidget(),
           SimpleAppDivider(
             dividerColor:
                 _giveDividerColor(appTheme: appThemeType, context: context),
