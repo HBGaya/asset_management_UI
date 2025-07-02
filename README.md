@@ -23,7 +23,7 @@ A beautifully crafted Flutter chart UI built with **Syncfusion**, **Riverpod**, 
 - Clean Architecture Principles
 
 ## 🖼️ Visual Representation
-![Working Representation](assets/demo.gif)
+![Working Representation](assets/images/demo.gif)
 
 ---
 
