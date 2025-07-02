@@ -37,9 +37,15 @@ A beautifully crafted Flutter chart UI built with **Syncfusion**, **Riverpod**, 
 </p>
 
 ## 📦 Get the Premium Version
-Want to use the premium component UI showcasing a stylish chart shown on premium demo above and as shown below?
+Want to use the premium component UI showcasing a stylish chart shown on as shown below?
 <p float="left">
   <img src="assets/images/premium_asset_graph_design.png" width="40%" />
+</p>
+
+<p align="center">
+  <a href="https://your-gumroad-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Now%20on-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
+  </a>
 </p>
 
 
