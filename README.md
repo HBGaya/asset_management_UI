@@ -1,2 +1,42 @@
-# asset_management_UI
-This repo showcases an attractive idea to showcase the asset management in the organization
+# 📊 Flutter Syncfusion Chart UI – Premium Dashboard Component
+
+A beautifully crafted Flutter chart UI built with **Syncfusion**, **Riverpod**, and **Clean Architecture** – designed to drop seamlessly into any modern Flutter app.
+
+## 🚀 Features
+
+- 📈 Syncfusion-powered charts (line, bar, area, and more)
+- 🧠 Riverpod for clean and scalable state management
+- 🎨 Light & dark theme support
+- 🏗️ Modular code with clean architecture (UI, domain, data layers)
+- 📱 Fully responsive for Android and iOS
+
+## 💡 Ideal For
+
+- Flutter dashboards & analytics apps  
+- Developer portfolios or production apps
+
+## 🛠️ Tech Stack
+
+- Flutter (latest stable SDK)
+- Syncfusion Flutter Charts
+- Riverpod (v2+)
+- Clean Architecture Principles
+
+---
+
+## 🔗 Related Links
+
+- 📘 [Syncfusion Flutter Docs](https://pub.dev/packages/syncfusion_flutter_charts)
+- 🧠 [Riverpod State Management](https://riverpod.dev)
+
+---
+
+## 👨‍💻 Author
+
+**Hamza Bilal** – Flutter Developer & Digital Nomad  
+📫 [Follow me on GitHub](https://github.com/HBGaya)  
+🌍 [Check more premium UIs & Apps]([https://your-gumroad-link.com)](https://hamzabilal5.gumroad.com/?_gl=1*1godjoc*_ga*MTk0NjkyMTAxLjE3NDgzNDA0NjY.*_ga_6LJN6D94N6*czE3NTE0NjY4NTkkbzYkZzEkdDE3NTE0NjY4NjYkajUzJGwwJGgw)
+
+---
+
+> ⚠️ _This repo is for demo and educational purposes only.
