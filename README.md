@@ -23,8 +23,8 @@ A beautifully crafted Flutter chart UI built with **Syncfusion**, **Riverpod**, 
 - Clean Architecture Principles
 
 ## 🖼️ Visual Representation
-<p align="center">
-  <strong>📱 Demo</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>📱 Demo Using Premium Chart UI</strong>
+<p align="left">
+  <strong>📱 Demo</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>📱 Demo Using Premium Chart UI</strong>
 </p>
 
 <p float="left" align="center">
