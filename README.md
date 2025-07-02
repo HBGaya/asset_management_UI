@@ -40,6 +40,7 @@ A beautifully crafted Flutter chart UI built with **Syncfusion**, **Riverpod**, 
 Want to use the premium component UI showcasing a stylish chart shown on as shown below?
 <p float="left">
   <img src="assets/images/premium_asset_graph_design.png" width="40%" />
+  <img src="assets/images/asset_management_cover.png" width="40%" />
 </p>
 
 Head over to gumroad by clicking the below button 👇👇👇
