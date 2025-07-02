@@ -37,7 +37,7 @@ A beautifully crafted Flutter chart UI built with **Syncfusion**, **Riverpod**, 
 </p>
 
 ## 📦 Get the Premium Version
-Want to use the premium component UI showcasing a stylish chart shown on as shown below?
+Want to use the premium chart UI showcasing a stylish chart as shown below?
 <p float="left">
   <img src="assets/images/premium_asset_graph_design.png" width="40%" /><br>
   <img src="assets/images/asset_management_cover.png" />
