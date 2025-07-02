@@ -36,10 +36,16 @@ A beautifully crafted Flutter chart UI built with **Syncfusion**, **Riverpod**, 
   <img src="assets/images/premium_demo.gif" width="45%" />
 </p>
 
+## 📦 Get the Premium Version
+Want to use the premium component UI showcasing a stylish chart shown on premium demo above and as shown below?
+<p float="left">
+  <img src="assets/images/premium_asset_graph_design.png" width="40%" />
+</p>
+
+
 ---
 
 ## 🔗 Related Links
-
 - 📘 [Syncfusion Flutter Docs](https://pub.dev/packages/syncfusion_flutter_charts)
 - 🧠 [Riverpod State Management](https://riverpod.dev)
 
