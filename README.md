@@ -35,7 +35,7 @@ A beautifully crafted Flutter chart UI built with **Syncfusion**, **Riverpod**, 
 
 **Hamza Bilal** – Flutter Developer & Digital Nomad  
 📫 [Follow me on GitHub](https://github.com/HBGaya)  
-🌍 [Check more premium UIs & Apps](https://hamzabilal5.gumroad.com/l/ldpgos?layout=profile)
+🌍 [Check more premium UIs & Apps](https://hamzabilal5.gumroad.com/)
 
 ---
 
