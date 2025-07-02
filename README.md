@@ -23,18 +23,20 @@ A beautifully crafted Flutter chart UI built with **Syncfusion**, **Riverpod**, 
 - Clean Architecture Principles
 
 ## 🖼️ Visual Representation
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>📱 Demo Using Normal Chart UI</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;<strong>📱 Demo Using Premium Chart UI</strong>
-</p>
-
-<p float="left" align="center">
-  <img src="assets/images/demo.gif" width="45%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/images/premium_demo.gif" width="45%" />
-</p>
+<table align="center">
+  <tr>
+    <th>📱 Demo Using Normal Chart UI</th>
+    <th>📱 Demo Using Premium Chart UI</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/images/demo.gif" width="300" alt="Normal Chart UI">
+    </td>
+    <td align="center">
+      <img src="assets/images/premium_demo.gif" width="300" alt="Premium Chart UI">
+    </td>
+  </tr>
+</table>
 
 ## 📦 Get the Premium Version
 Want to use the premium chart UI showcasing a stylish chart as shown below?
