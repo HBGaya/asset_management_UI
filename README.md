@@ -42,7 +42,8 @@ Want to use the premium component UI showcasing a stylish chart shown on as show
   <img src="assets/images/premium_asset_graph_design.png" width="40%" />
 </p>
 
-👉 <p align="left">
+Head over to gumroad by clicking the below button 👇👇👇
+<p align="left">
   <a href="https://hamzabilal5.gumroad.com/l/ldpgos?layout=profile" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Now%20on-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
   </a>
