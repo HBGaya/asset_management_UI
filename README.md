@@ -52,6 +52,12 @@ Head over to gumroad by clicking the below button 👇👇👇
   </a>
 </p>
 
+# Liked My Work
+
+Support me by buying a coffee
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/hamzag)
+
 
 ---
 
