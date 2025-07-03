@@ -52,6 +52,15 @@ Head over to gumroad by clicking the below button 👇👇👇
   </a>
 </p>
 
+## 📄 Licensing Notice
+
+Syncfusion Flutter packages are governed by the [Syncfusion EULA](https://www.syncfusion.com/eula/flutter). They are **not open-source**, and usage is permitted under:
+
+- The **Community License** (free for individuals/small businesses under $1 million USD annual revenue and under 5 developers)
+- Or a valid **commercial license**
+
+🔒 Make sure you comply with [Syncfusion's licensing terms](https://www.syncfusion.com/products/communitylicense) before using these widgets in production or commercial products.
+
 # Liked My Work
 
 Support me by buying a coffee
